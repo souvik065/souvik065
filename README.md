@@ -6,7 +6,7 @@
 <a href="https://twitter.com/souvik3950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvik3950" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvik bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik bhattacharya" height="30" width="40" /></a>
 <a href="https://fb.com/souvik bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvik bhattacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/__mr_souvik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr_souvik__" height="30" width="40" /></a>
+<a href="https://instagram.com/__mr__souvik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr_souvik__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
